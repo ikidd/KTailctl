@@ -62,27 +62,29 @@ Kirigami.ScrollablePage {
                     }
 
                     Kirigami.Icon {
-                        source: Util.loadOsIcon(os)
+                        source: isOnline ? "state-ok" : "state-error"
+                        //source: Util.loadOsIcon(os)
                     }
 
                     ColumnLayout {
                         RowLayout {
+                            // Kirigami.Icon {
+                            //     source: isOnline ? "state-ok" : "state-error"
+                            // }
                             Kirigami.Chip {
                                 checkable: false
                                 checked: false
                                 closable: false
                                 icon.name: "edit-copy"
                                 text: dnsName
-
                                 onClicked: {
-                                    Util.setClipboardText(dnsName);
+                                    App.setPeerDetails(tailscaleID);
+                                    pageStack.layers.push('qrc:Peer.qml');
                                 }
+                                // onClicked: {
+                                //     Util.setClipboardText(dnsName);
+                                // }
                             }
-
-                            Kirigami.Icon {
-                                source: isOnline ? "online" : "offline"
-                            }
-
                             // Kirigami.Icon {
                             //     source: "cloud-upload"
                             // }
@@ -105,25 +107,25 @@ Kirigami.ScrollablePage {
                             Layout.fillWidth: true
                         }
 
-                        Flow {
-                            spacing: Kirigami.Units.smallSpacing
+                        // Flow {
+                        //     spacing: Kirigami.Units.smallSpacing
 
-                            Repeater {
-                                model: tailscaleIps
+                        //     Repeater {
+                        //         model: tailscaleIps
 
-                                Kirigami.Chip {
-                                    checkable: false
-                                    checked: false
-                                    closable: false
-                                    icon.name: "edit-copy"
-                                    text: modelData
+                        //         Kirigami.Chip {
+                        //             checkable: false
+                        //             checked: false
+                        //             closable: false
+                        //             icon.name: "edit-copy"
+                        //             text: modelData
 
-                                    onClicked: {
-                                        Util.setClipboardText(modelData);
-                                    }
-                                }
-                            }
-                        }
+                        //             onClicked: {
+                        //                 Util.setClipboardText(modelData);
+                        //             }
+                        //         }
+                        //     }
+                        // }
                     }
 
                     ColumnLayout {
@@ -176,19 +178,19 @@ Kirigami.ScrollablePage {
                             }
                         }
 
-                        Controls.Button {
-                            Controls.ToolTip.delay: Kirigami.Units.toolTipDelay
-                            Controls.ToolTip.text: text
-                            Controls.ToolTip.visible: hovered
-                            display: Controls.Button.IconOnly
-                            icon.name: "view-list-details"
-                            text: i18nc("@label", "Details")
+                        // Controls.Button {
+                        //     Controls.ToolTip.delay: Kirigami.Units.toolTipDelay
+                        //     Controls.ToolTip.text: text
+                        //     Controls.ToolTip.visible: hovered
+                        //     display: Controls.Button.IconOnly
+                        //     icon.name: "view-list-details"
+                        //     text: i18nc("@label", "Details")
 
-                            onClicked: {
-                                App.setPeerDetails(tailscaleID);
-                                pageStack.layers.push('qrc:Peer.qml');
-                            }
-                        }
+                        //     onClicked: {
+                        //         App.setPeerDetails(tailscaleID);
+                        //         pageStack.layers.push('qrc:Peer.qml');
+                        //     }
+                        // }
                     }
                 }
 
