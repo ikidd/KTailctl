@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/CMakeFiles/_CMakeLTOTest-CXX/src/foo.cpp
+

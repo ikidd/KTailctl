@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libktailctl_taildrop.a CMakeFiles/ktailctl_taildrop.dir/ktailctl_taildrop_autogen/mocs_compilation.cpp.o CMakeFiles/ktailctl_taildrop.dir/taildrop_receiver.cpp.o CMakeFiles/ktailctl_taildrop.dir/taildrop_sender.cpp.o
+/usr/bin/ranlib ../../lib/libktailctl_taildrop.a

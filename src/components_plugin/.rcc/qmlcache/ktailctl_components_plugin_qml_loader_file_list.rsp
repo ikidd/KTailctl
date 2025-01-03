@@ -1,0 +1,10 @@
+--resource
+/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin/.qt/rcc/qmake_org_fkoehler_KTailctl_Components.qrc
+--resource
+/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin/.qt/rcc/ktailctl_components_plugin_raw_qml_0.qrc
+/qt/qml/org/fkoehler/KTailctl/Components/FormCopyChipsDelegate.qml
+/qt/qml/org/fkoehler/KTailctl/Components/FormCopyLabelDelegate.qml
+/qt/qml/org/fkoehler/KTailctl/Components/FormLabeledIconDelegate.qml
+/qt/qml/org/fkoehler/KTailctl/Components/FormLabelDelegate.qml
+/qt/qml/org/fkoehler/KTailctl/Components/HeaderBanner.qml
+/qt/qml/org/fkoehler/KTailctl/Components/PeerInfoPage.qml

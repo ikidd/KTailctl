@@ -1,0 +1,159 @@
+{
+	"BUILD_DIR" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin/ktailctl_components_plugin_autogen",
+	"CMAKE_BINARY_DIR" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl",
+	"CMAKE_CURRENT_BINARY_DIR" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin/CMakeLists.txt",
+		"/usr/share/ECM/modules/ECMQmlModule.cmake",
+		"/usr/share/ECM/modules/QtVersionOption.cmake",
+		"/usr/share/ECM/modules/ECMQmlModule6.cmake",
+		"/usr/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
+		"/usr/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
+		"/usr/lib/cmake/Qt6/Qt6Config.cmake",
+		"/usr/lib/cmake/Qt6/Qt6ConfigExtras.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtInstallPaths.cmake",
+		"/usr/lib/cmake/Qt6/Qt6Targets.cmake",
+		"/usr/lib/cmake/Qt6/Qt6VersionlessAliasTargets.cmake",
+		"/usr/lib/cmake/Qt6/QtFeature.cmake",
+		"/usr/share/cmake/Modules/CheckCXXCompilerFlag.cmake",
+		"/usr/lib/cmake/Qt6/QtFeatureCommon.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicAppleHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicGitHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicPluginHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicSbomGenerationHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicSbomHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicTargetHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicTestHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicToolHelpers.cmake",
+		"/usr/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake",
+		"/usr/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/cmake/Qt6/Qt6Dependencies.cmake",
+		"/usr/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"/usr/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in",
+		"/usr/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"/usr/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in"
+	],
+	"CMAKE_SOURCE_DIR" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin/ktailctl_components_plugin_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "ktailctl_components_plugin_autogen/timestamp",
+	"HEADERS" : [],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin/ktailctl_components_plugin_autogen/include",
+	"MOC_COMPILATION_FILE" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin/ktailctl_components_plugin_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_DEPRECATED_WARNINGS",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_PLUGIN",
+		"QT_QMLINTEGRATION_LIB",
+		"QT_QML_LIB",
+		"ktailctl_components_plugin_EXPORTS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_FACTORY_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_FACTORY_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_CLASS_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_CLASS_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin",
+		"/usr/include/qt6/QtQml/6.8.0",
+		"/usr/include/qt6/QtQml/6.8.0/QtQml",
+		"/usr/include/qt6/QtCore/6.8.0",
+		"/usr/include/qt6/QtCore/6.8.0/QtCore",
+		"/usr/include/qt6/QtCore",
+		"/usr/include/qt6",
+		"/usr/lib/qt6/mkspecs/linux-g++",
+		"/usr/include/qt6/QtQml",
+		"/usr/include/qt6/QtQmlIntegration",
+		"/usr/include/qt6/QtNetwork",
+		"/usr/include/c++/14.2.1",
+		"/usr/include/c++/14.2.1/x86_64-pc-linux-gnu",
+		"/usr/include/c++/14.2.1/backward",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include",
+		"/usr/local/include",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include-fixed",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS",
+		"K_PLUGIN_FACTORY",
+		"K_PLUGIN_CLASS",
+		"K_PLUGIN_FACTORY_WITH_JSON",
+		"K_PLUGIN_CLASS_WITH_JSON"
+	],
+	"MOC_OPTIONS" : [ "-Muri=org.fkoehler.KTailctl.Components", "--output-json" ],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-std=c++20",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin/ktailctl_components_plugin_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : 
+	[
+		"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin/.qt/rcc/qrc_ktailctl_components_plugin_raw_qml_0.cpp",
+		"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin/.qt/rcc/qrc_qmake_org_fkoehler_KTailctl_Components.cpp",
+		"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin/.rcc/qmlcache/ktailctl_components_plugin_FormCopyChipsDelegate_qml.cpp",
+		"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin/.rcc/qmlcache/ktailctl_components_plugin_FormCopyLabelDelegate_qml.cpp",
+		"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin/.rcc/qmlcache/ktailctl_components_plugin_FormLabelDelegate_qml.cpp",
+		"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin/.rcc/qmlcache/ktailctl_components_plugin_FormLabeledIconDelegate_qml.cpp",
+		"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin/.rcc/qmlcache/ktailctl_components_plugin_HeaderBanner_qml.cpp",
+		"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin/.rcc/qmlcache/ktailctl_components_plugin_PeerInfoPage_qml.cpp",
+		"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin/.rcc/qmlcache/ktailctl_components_plugin_qmlcache_loader.cpp",
+		"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin/ktailctl_components_plugin_qmltyperegistrations.cpp"
+	],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin/CMakeFiles/ktailctl_components_plugin_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt6/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 8,
+	"SETTINGS_FILE" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin/CMakeFiles/ktailctl_components_plugin_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin/components_plugin.cpp",
+			"Mu",
+			null
+		]
+	],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

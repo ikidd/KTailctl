@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libktailctl_tailscale.a CMakeFiles/ktailctl_tailscale.dir/ktailctl_tailscale_autogen/mocs_compilation.cpp.o CMakeFiles/ktailctl_tailscale.dir/peer_model.cpp.o CMakeFiles/ktailctl_tailscale.dir/tailscale.cpp.o CMakeFiles/ktailctl_tailscale.dir/exit_node_model.cpp.o CMakeFiles/ktailctl_tailscale.dir/mullvad_country_model.cpp.o CMakeFiles/ktailctl_tailscale.dir/mullvad_node_model.cpp.o
+/usr/bin/ranlib ../../lib/libktailctl_tailscale.a

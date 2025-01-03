@@ -1,0 +1,4 @@
+/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/foo.dir
+/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/boo.dir
+/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/edit_cache.dir
+/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/rebuild_cache.dir

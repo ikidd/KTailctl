@@ -1,0 +1,149 @@
+{
+	"BUILD_DIR" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/tailscale/ktailctl_tailscale_autogen",
+	"CMAKE_BINARY_DIR" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl",
+	"CMAKE_CURRENT_BINARY_DIR" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/tailscale",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/tailscale",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/tailscale/CMakeLists.txt"
+	],
+	"CMAKE_SOURCE_DIR" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/tailscale/ktailctl_tailscale_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "ktailctl_tailscale_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/tailscale/exit_node_model.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_exit_node_model.cpp",
+			null
+		],
+		[
+			"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/tailscale/mullvad_country_model.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_mullvad_country_model.cpp",
+			null
+		],
+		[
+			"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/tailscale/mullvad_node_model.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_mullvad_node_model.cpp",
+			null
+		],
+		[
+			"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/tailscale/peer_model.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_peer_model.cpp",
+			null
+		],
+		[
+			"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/tailscale/tailscale.hpp",
+			"Mu",
+			"EWIEGA46WW/moc_tailscale.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/tailscale/ktailctl_tailscale_autogen/include",
+	"MOC_COMPILATION_FILE" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/tailscale/ktailctl_tailscale_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_NO_DEBUG" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_FACTORY_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_FACTORY_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_CLASS_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_CLASS_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/tailscale",
+		"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/data",
+		"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/wrapper",
+		"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/lib",
+		"/usr/include/qt6/QtCore",
+		"/usr/include/qt6",
+		"/usr/lib/qt6/mkspecs/linux-g++",
+		"/usr/include",
+		"/usr/include/c++/14.2.1",
+		"/usr/include/c++/14.2.1/x86_64-pc-linux-gnu",
+		"/usr/include/c++/14.2.1/backward",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include",
+		"/usr/local/include",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include-fixed"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS",
+		"K_PLUGIN_FACTORY",
+		"K_PLUGIN_CLASS",
+		"K_PLUGIN_FACTORY_WITH_JSON",
+		"K_PLUGIN_CLASS_WITH_JSON"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-std=c++20",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/tailscale/ktailctl_tailscale_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/tailscale/CMakeFiles/ktailctl_tailscale_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt6/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 8,
+	"SETTINGS_FILE" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/tailscale/CMakeFiles/ktailctl_tailscale_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/tailscale/exit_node_model.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/tailscale/mullvad_country_model.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/tailscale/mullvad_node_model.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/tailscale/peer_model.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/tailscale/tailscale.cpp",
+			"Mu",
+			null
+		]
+	],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,13 @@
+module org.fkoehler.KTailctl.Components
+linktarget ktailctl_components_plugin
+optional plugin ktailctl_components_plugin
+classname org_fkoehler_KTailctl_ComponentsPlugin
+typeinfo ktailctl_components_plugin.qmltypes
+prefer :/qt/qml/org/fkoehler/KTailctl/Components/
+FormCopyChipsDelegate 1.0 FormCopyChipsDelegate.qml
+FormCopyLabelDelegate 1.0 FormCopyLabelDelegate.qml
+FormLabeledIconDelegate 1.0 FormLabeledIconDelegate.qml
+FormLabelDelegate 1.0 FormLabelDelegate.qml
+HeaderBanner 1.0 HeaderBanner.qml
+PeerInfoPage 1.0 PeerInfoPage.qml
+

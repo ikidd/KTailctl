@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/qt/qml/org/fkoehler/KTailctl/Components/">
+    <file alias="FormCopyChipsDelegate.qml">/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin/FormCopyChipsDelegate.qml</file>
+    <file alias="FormCopyLabelDelegate.qml">/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin/FormCopyLabelDelegate.qml</file>
+    <file alias="FormLabeledIconDelegate.qml">/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin/FormLabeledIconDelegate.qml</file>
+    <file alias="FormLabelDelegate.qml">/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin/FormLabelDelegate.qml</file>
+    <file alias="HeaderBanner.qml">/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin/HeaderBanner.qml</file>
+    <file alias="PeerInfoPage.qml">/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin/PeerInfoPage.qml</file>
+  </qresource>
+</RCC>
+

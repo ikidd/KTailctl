@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC      -Wall     -Wextra     -pedantic     -Wno-c99-extensions     -Wno-c++98-compat  -shared -Wl,-soname,libktailctl_wrapper_logging.so -o ../../bin/libktailctl_wrapper_logging.so CMakeFiles/ktailctl_wrapper_logging.dir/ktailctl_wrapper_logging_autogen/mocs_compilation.cpp.o CMakeFiles/ktailctl_wrapper_logging.dir/logging.cpp.o  /usr/lib/libQt6Core.so.6.8.0

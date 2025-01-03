@@ -1,0 +1,14 @@
+-I
+/usr/lib/qt6/qml
+-I
+/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/bin
+-I
+/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/bin
+-I
+/usr/lib/qt6/qml
+--resource
+/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin/.qt/rcc/qmake_org_fkoehler_KTailctl_Components.qrc
+--resource
+/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/components_plugin/.qt/rcc/ktailctl_components_plugin_raw_qml_0.qrc
+--module
+org.fkoehler.KTailctl.Components

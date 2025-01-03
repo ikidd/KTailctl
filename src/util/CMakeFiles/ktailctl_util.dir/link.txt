@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libktailctl_util.a CMakeFiles/ktailctl_util.dir/ktailctl_util_autogen/mocs_compilation.cpp.o CMakeFiles/ktailctl_util.dir/util.cpp.o
+/usr/bin/ranlib ../../lib/libktailctl_util.a

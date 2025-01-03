@@ -1,0 +1,33 @@
+{
+	"BUILD_DIR" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/ktailctl_autogen",
+	"CMAKE_BINARY_DIR" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl",
+	"CMAKE_CURRENT_BINARY_DIR" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src",
+	"CMAKE_SOURCE_DIR" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/ktailctl_autogen/include",
+	"INPUTS" : 
+	[
+		"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/ui/Peers.qml",
+		"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/ui/MullvadNodes.qml",
+		"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/ui/Self.qml",
+		"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/ui/Peer.qml",
+		"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/ui/Settings.qml",
+		"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/ui/ExitNodes.qml",
+		"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/ui/Statistics.qml",
+		"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/ui/main.qml",
+		"/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/ui/About.qml"
+	],
+	"LOCK_FILE" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/CMakeFiles/ktailctl_autogen.dir/AutoRcc_ui_UYX5XTB5RZ_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "ui" ],
+	"OUTPUT_CHECKSUM" : "UYX5XTB5RZ",
+	"OUTPUT_NAME" : "qrc_ui.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt6/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/CMakeFiles/ktailctl_autogen.dir/AutoRcc_ui_UYX5XTB5RZ_Used.txt",
+	"SOURCE" : "/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/src/ui/ui.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

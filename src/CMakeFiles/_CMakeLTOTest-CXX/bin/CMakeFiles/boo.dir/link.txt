@@ -1,0 +1,1 @@
+/usr/bin/c++      -Wall     -Wextra     -pedantic     -Wno-c99-extensions     -Wno-c++98-compat -g -fno-omit-frame-pointer -flto=auto -fno-fat-lto-objects CMakeFiles/boo.dir/main.cpp.o -o boo  libfoo.a

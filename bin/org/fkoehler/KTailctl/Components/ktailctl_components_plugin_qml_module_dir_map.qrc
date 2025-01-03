@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/org/fkoehler/KTailctl/Components">/run/media/ikidd/Data/Distrobox/Ktailctl/KTailctl/bin/org/fkoehler/KTailctl/Components</file>
+
+  </qresource>
+</RCC>
