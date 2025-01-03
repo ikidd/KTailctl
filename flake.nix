@@ -30,7 +30,7 @@
               pname = "ktailctl_wrapper";
               inherit src version;
               modRoot = "src/wrapper";
-              vendorHash = "sha256-B/rASLrIH+JS/m7Fu2lNuaZ4hP6nJoazY7vCtWEGmc4=";
+              vendorHash = "sha256-xMWbCV7YmSQ2ieGJTzmRnkVSldBwkZVZc9Zl4WZ767c=";
             })
             .goModules;
 
@@ -43,6 +43,8 @@
           ];
           buildInputs = [
             appstream
+            kdePackages.kdbusaddons
+            kdePackages.kwindowsystem
             kdePackages.kconfig
             kdePackages.kcoreaddons
             kdePackages.kguiaddons

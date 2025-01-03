@@ -159,6 +159,26 @@ Kirigami.ScrollablePage {
                     }
                 }
 
+                FormCard.FormDelegateSeparator {
+                    above: enableExitNodeLanAccess
+                    below: enableTailscale
+                }
+
+                FormCard.FormSwitchDelegate {
+                    id: enableExitNodeLanAccess
+
+                    checked: Preferences.allowLANAccess
+                    enabled: Tailscale.isOperator && Tailscale.success
+                    text: i18nc("@label", "Allow LAN Access:")
+
+                    onClicked: Preferences.allowLANAccess = !Preferences.allowLANAccess
+                }
+
+                FormCard.FormDelegateSeparator {
+                    above: acceptRoutes
+                    below: enableExitNodeLanAccess
+                }
+
                 FormCard.FormSwitchDelegate {
                     id: acceptRoutes
 
@@ -279,9 +299,7 @@ Kirigami.ScrollablePage {
 
                     onClicked: {
                         if (!Preferences.advertiseExitNode) {
-                            Util.unsetExitNode();
                             Tailscale.unsetExitNode();
-                            comboExitNode.currentIndex = 0;
                             Preferences.advertiseExitNode = true;
                         } else {
                             Preferences.advertiseExitNode = false;
